@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\AtividadeBancoAula12\AtividadeBancoAula12\bin\Debug\netcoreapp3.1\AtividadeBancoAula12.exe
+C:\Users\User\source\repos\AtividadeBancoAula12\AtividadeBancoAula12\bin\Debug\netcoreapp3.1\AtividadeBancoAula12.deps.json
+C:\Users\User\source\repos\AtividadeBancoAula12\AtividadeBancoAula12\bin\Debug\netcoreapp3.1\AtividadeBancoAula12.runtimeconfig.json
+C:\Users\User\source\repos\AtividadeBancoAula12\AtividadeBancoAula12\bin\Debug\netcoreapp3.1\AtividadeBancoAula12.runtimeconfig.dev.json
+C:\Users\User\source\repos\AtividadeBancoAula12\AtividadeBancoAula12\bin\Debug\netcoreapp3.1\AtividadeBancoAula12.dll
+C:\Users\User\source\repos\AtividadeBancoAula12\AtividadeBancoAula12\bin\Debug\netcoreapp3.1\AtividadeBancoAula12.pdb
+C:\Users\User\source\repos\AtividadeBancoAula12\AtividadeBancoAula12\obj\Debug\netcoreapp3.1\AtividadeBancoAula12.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\AtividadeBancoAula12\AtividadeBancoAula12\obj\Debug\netcoreapp3.1\AtividadeBancoAula12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\AtividadeBancoAula12\AtividadeBancoAula12\obj\Debug\netcoreapp3.1\AtividadeBancoAula12.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\AtividadeBancoAula12\AtividadeBancoAula12\obj\Debug\netcoreapp3.1\AtividadeBancoAula12.AssemblyInfo.cs
+C:\Users\User\source\repos\AtividadeBancoAula12\AtividadeBancoAula12\obj\Debug\netcoreapp3.1\AtividadeBancoAula12.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AtividadeBancoAula12\AtividadeBancoAula12\obj\Debug\netcoreapp3.1\AtividadeBancoAula12.dll
+C:\Users\User\source\repos\AtividadeBancoAula12\AtividadeBancoAula12\obj\Debug\netcoreapp3.1\AtividadeBancoAula12.pdb
+C:\Users\User\source\repos\AtividadeBancoAula12\AtividadeBancoAula12\obj\Debug\netcoreapp3.1\AtividadeBancoAula12.genruntimeconfig.cache
